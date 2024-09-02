@@ -1,6 +1,5 @@
 # Assignment_14
 
-
 # **Working with Feature Collections and Exports in GEE**
 
 > The GEE JavaScript API offers powerful tools for manipulating and exporting geospatial data. This article explores techniques for adding properties, exporting and importing features as Shapefiles and CSVs, creating feature collections with null geometries, and exporting classified images.
@@ -24,6 +23,17 @@ To export the feature collection as CSV_
 
 *   [GEE link](https://code.earthengine.google.com/bb4b5c2125b8ac315d30fcf53c7b5ddc)
 *   [Screenshot](https://github.com/Aimon-Rana-Jihad/Assignment_14/commit/ed78ba150a6adf65b11f5b046a8e1ee699cbdf6f)
+
+
+*  [ CSV](https://drive.google.com/drive/folders/1CVhlQSCxaRyl2okOhzQeXCfL-qNnZJCO)
+
+
+
+
+
+
+
+
 
 
 
